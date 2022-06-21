@@ -23,7 +23,7 @@ We were supposed to use Support Vector Machine (SVM) Classifier for user identif
 
 | No of features Used for training  | Validation | Testing |
 | ------------- | ------------- |---------|-----|-----|------|
-|Accuracy|F1-Score| Authorized | Unauthorized | Total |
+|Accuracy|F1-Score| blank |Authorized | Unauthorized | Total |
 | Six | 86 | 145 | 49 | 123 | 116 |
 | Green  | 81 | 158 | 53 | 126 | 132 |
 |Red|64|180|38|133|138|
