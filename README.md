@@ -21,7 +21,7 @@ We were supposed to use Support Vector Machine (SVM) Classifier for user identif
 
 # Results
 
-| No of features Used for training|  Validation Accuracy | Validation F1-Score| Testing | Testing |Testing |
+| No of features Used for training|  Validation Accuracy | Validation F1-Score| Testing Accuracy(authorized) | Testing(unauthorized) |Testing(total) |
 | ------------- | ------------- |---------|-----|-----|--|
 | Six | 75.37 | 0.743 | 59.25 | 91.97 | 75.61 |
 | Four | 72.66 | 0.702 | 58.02 | 94.44 | 76.234 |
