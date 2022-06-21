@@ -7,6 +7,10 @@ Authenticate the user by training and testing your assigned classifier by the da
 # Solution Classifier
 We were supposed to use Support Vector Machine (SVM) Classifier for user identification using ‘MouseLog’ data.
 
+# Flowchart 1
+
 <img src="chart1.jpeg">
+
+# Flowchart 2
 
 <img src="chart2.jpeg">
