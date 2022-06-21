@@ -21,7 +21,7 @@ We were supposed to use Support Vector Machine (SVM) Classifier for user identif
 
 # Results
 
-| No of features Used for training  <td colspan=3>Validation <td colspan=2>Testing |
+| No of features Used for training|  <td colspan=3>Validation | <td colspan=2>Testing |
 | ------------- | ------------- |---------|-----|-----|--|
 |Features|Accuracy|F1-Score| blank |Authorized | Unauthorized | Total |
 | ------------- | ------------- |---------|-----|-----|--|
