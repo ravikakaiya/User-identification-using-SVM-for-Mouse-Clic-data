@@ -7,3 +7,5 @@ Authenticate the user by training and testing your assigned classifier by the da
 # Solution Classifier
 We were supposed to use Support Vector Machine (SVM) Classifier for user identification using ‘MouseLog’ data.
 
+<img src="User-identification-using-SVM-for-Mouse-Clic-data/Term Project Flow chart 2.jpeg">
+
