@@ -17,7 +17,7 @@ We were supposed to use Support Vector Machine (SVM) Classifier for user identif
 
 # Attribute Data Scattering
 
-<img src="Data_visualise.jpeg">
+<img src="Data_visualise.jpg">
 
 # Results
 
