@@ -28,3 +28,8 @@ We were supposed to use Support Vector Machine (SVM) Classifier for user identif
 | Six | 86 | 145 | 49 | 123 | 116 |
 | Green  | 81 | 158 | 53 | 126 | 132 |
 |Red|64|180|38|133|138|
+
+
+| One    | Two | Three | Four    | Five  | Six
+|-|-|-|-|-|-
+| Span <td colspan=3>triple  <td colspan=2>double
