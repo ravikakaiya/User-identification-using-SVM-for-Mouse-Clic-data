@@ -14,3 +14,5 @@ We were supposed to use Support Vector Machine (SVM) Classifier for user identif
 # Flowchart 2
 
 <img src="chart2.jpeg">
+
+# Rresults
