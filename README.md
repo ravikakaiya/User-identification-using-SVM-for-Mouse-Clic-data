@@ -30,6 +30,6 @@ We were supposed to use Support Vector Machine (SVM) Classifier for user identif
 |Red|64|180|38|133|138|
 
 
-| One    | Two | Three | Four    | Five  | Six
-|-|-|-|-|-|-
+| One    | Two | Three | Four    | Five  | Six |
+|-|-|-|-|-|- |
 | Span <td colspan=3>triple  <td colspan=2>double
